@@ -1,12 +1,21 @@
+💻🚨 Desafio DIO - Simulação de Phishing com Kali Linux 🐧🎯
+Nesse desafio 🔥, estou colocando em prática técnicas de engenharia social utilizando o poderoso SEToolkit (Social-Engineer Toolkit) no ambiente Kali Linux. O foco foi criar uma página de phishing personalizada 🎭, simulando um ataque realista com o objetivo de conscientizar sobre os riscos da segurança da informação 🔐🧠.
 
-💻🚨 Desafio DIO - Phishing com Kali Linux 🐧🎯
-Nesse desafio 🔥, estou colocando em prática técnicas de engenharia social usando o poderoso SEToolkit (Social-Engineer Toolkit) no ambiente Kali Linux. O foco é criar uma página de phishing personalizada 🎭 para simular um ataque real e conscientizar sobre os riscos da segurança da informação 🔐🧠.
+🧪 Objetivo do Experimento
+Esse experimento demonstra como é simples enganar usuários desatentos com páginas falsas bem elaboradas. Ele serve como alerta educacional para reforçar a importância da cibersegurança em ambientes corporativos e pessoais.
 
-🧪 Esse experimento mostra o quanto é fácil enganar usuários desatentos e serve como alerta para a importância da cibersegurança em ambientes corporativos e pessoais.
-📚 Conteúdo meramente educacional!
+⚙️ Ferramentas e Técnicas Utilizadas
+🛠️ Ferramenta: SEToolkit
 
-🛠️ Ferramenta usada: setoolkit
+🕸️ Técnica: Clonagem de sites reais (como Facebook e Instagram)
 
-🕸️ Técnica: Clonagem de site (facebook e instagram)
+🧑‍💻 Sistema Operacional: Kali Linux
 
-🧑‍💻 Sistema: Kali Linux
+📦 Extras: Simulação Fora do Kali Linux
+Além do experimento com Kali, desenvolvi também uma versão externa (em ambiente local) usando:
+
+🐍 Python
+
+📜 HTML
+
+Essa versão permite realizar testes de conscientização de forma segura, sem necessidade de Kali Linux, demonstrando que com ferramentas simples é possível educar sobre ataques sofisticados.

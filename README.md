@@ -6,5 +6,7 @@ Nesse desafio 🔥, estou colocando em prática técnicas de engenharia social u
 📚 Conteúdo meramente educacional!
 
 🛠️ Ferramenta usada: setoolkit
+
 🕸️ Técnica: Clonagem de site (facebook e instagram)
+
 🧑‍💻 Sistema: Kali Linux

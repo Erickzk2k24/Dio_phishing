@@ -14,8 +14,8 @@ Esse experimento demonstra como é simples enganar usuários desatentos com pág
 📦 Extras: Simulação Fora do Kali Linux
 Além do experimento com Kali, desenvolvi também uma versão externa (em ambiente local) usando:
 
-🐍 Python
+🧾 PHP - login.php
 
-📜 HTML
+📜 HTML - facebook.html
 
 Essa versão permite realizar testes de conscientização de forma segura, sem necessidade de Kali Linux, demonstrando que com ferramentas simples é possível educar sobre ataques sofisticados.
